@@ -1,0 +1,7 @@
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\bin\Debug\documentMerger2.exe.config
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\bin\Debug\documentMerger2.exe
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\bin\Debug\documentMerger2.pdb
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\obj\Debug\documentMerger2.csprojAssemblyReference.cache
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\obj\Debug\documentMerger2.csproj.CoreCompileInputs.cache
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\obj\Debug\documentMerger2.exe
+C:\Users\Cassidy\source\repos\documentMerger2\documentMerger2\obj\Debug\documentMerger2.pdb
